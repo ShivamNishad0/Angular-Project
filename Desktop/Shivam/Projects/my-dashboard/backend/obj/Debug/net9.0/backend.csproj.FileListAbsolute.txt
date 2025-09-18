@@ -36,3 +36,13 @@
 /Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/obj/Debug/net9.0/backend.pdb
 /Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/obj/Debug/net9.0/backend.genruntimeconfig.cache
 /Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/obj/Debug/net9.0/ref/backend.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/obj/Debug/net9.0/backend.sourcelink.json
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/BCrypt.Net-Next.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/shivam/Desktop/Shivam/Projects/my-dashboard/backend/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
