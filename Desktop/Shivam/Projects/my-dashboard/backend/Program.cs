@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+builder.Services.AddControllers(); // Add this for API controllers
 
 builder.Services.AddSingleton<IMongoClient>(s => new MongoClient("mongodb+srv://shivamnishad0963046_db_user:shrihari@cluster0.bdgiick.mongodb.net"));
 
@@ -44,6 +45,8 @@ app.UseHttpsRedirection();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+app.MapControllers(); // Add this to map API controllers
 
 var summaries = new[]
 {
