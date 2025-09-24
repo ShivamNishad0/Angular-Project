@@ -1,0 +1,14 @@
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.nav-links {
+  margin-top: 20px;
+}
+
+.nav-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #007bff;
+}
