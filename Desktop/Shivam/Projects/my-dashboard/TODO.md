@@ -8,10 +8,11 @@
 - [x] Update Program.cs: Configure JWT services and authentication
 
 ## Frontend Tasks
-- [ ] Create SignupComponent in Angular
-- [ ] Create LoginComponent in Angular
-- [ ] Update app.routes.ts to include /signup and /login routes
-- [ ] Update app.html or main component for navigation links
+- [x] Create SignupComponent in Angular
+- [x] Create LoginComponent in Angular
+- [x] Update app.routes.ts to include /signup and /login routes
+- [x] Update app.html or main component for navigation links
+- [x] Add Connect More component and route
 
 ## Followup
 - [ ] Test backend endpoints
