@@ -13,7 +13,7 @@
 - [x] Update app.routes.ts to include /signup and /login routes
 - [x] Update app.html or main component for navigation links
 - [x] Add Connect More component and route
-
+,madnsajdnwk;SN     kjwdc   ewcj ewdce
 ## Followup
 - [ ] Test backend endpoints
 - [ ] Test frontend integration
